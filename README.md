@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Basile
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C++,C# and Java
-- 💞️ I’m looking to collaborate on any projects in Java or Python
+- 🌱 I’m currently learning Java, C#, and Python 
+- 💞️ I’m looking to collaborate on any projects in C++
 - 📫 Reach out to me on Basile100
 
 <!---
