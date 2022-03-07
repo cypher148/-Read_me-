@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Java, C#, and Python 
 - 💞️ I’m looking to collaborate on any projects in C++
-- 📫 Reach out to me on Basile100
+- 📫 Reach out to me on Basile-Mbasha.
 
 <!---
 Basile100/Basile100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
